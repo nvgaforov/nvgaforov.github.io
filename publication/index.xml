@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Публикации | My Site</title>
-    <link>https://iumirzakov.github.io/publication/</link>
-      <atom:link href="https://iumirzakov.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <title>Публикации | Мой сайт</title>
+    <link>https://nvgaforov.github.io/publication/</link>
+      <atom:link href="https://nvgaforov.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Публикации</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 07 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://iumirzakov.github.io/media/icon_hu7729264130191091259.png</url>
+      <url>https://nvgaforov.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Публикации</title>
-      <link>https://iumirzakov.github.io/publication/</link>
+      <link>https://nvgaforov.github.io/publication/</link>
     </image>
     
     <item>
       <title>Latex</title>
-      <link>https://iumirzakov.github.io/publication/21/</link>
+      <link>https://nvgaforov.github.io/publication/21/</link>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://iumirzakov.github.io/publication/21/</guid>
+      <guid>https://nvgaforov.github.io/publication/21/</guid>
       <description>&lt;p&gt;LaTeX — это система набора и верстки текстов, созданная для подготовки документов высокого качества. Основное его предназначение — оформление сложных документов, таких как научные статьи, диссертации, книги и тексты с математическими формулами. В отличие от стандартных текстовых редакторов, таких как Microsoft Word, LaTeX использует подход разметки текста, что позволяет уделять больше внимания содержанию, а не оформлению.&lt;/p&gt;
 &lt;p&gt;Как работает LaTeX?
 В LaTeX документ пишется с использованием специальных команд, которые указывают, как должна быть отформатирована та или иная часть текста. Этот подход называется декларативным, так как вы описываете структуру документа, а не его визуальные детали. Например, вместо того чтобы вручную выбирать шрифт или выравнивание, вы используете команды, такие как \section для создания разделов, и LaTeX сам форматирует текст в соответствии с правилами.&lt;/p&gt;
@@ -47,9 +47,9 @@ LaTeX — это мощный и гибкий инструмент для тех
     
     <item>
       <title>Научные ЯП</title>
-      <link>https://iumirzakov.github.io/publication/41/</link>
+      <link>https://nvgaforov.github.io/publication/41/</link>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://iumirzakov.github.io/publication/41/</guid>
+      <guid>https://nvgaforov.github.io/publication/41/</guid>
       <description>&lt;p&gt;Научное программирование охватывает использование языков программирования для решения задач, связанных с исследовательской деятельностью, анализом данных, моделированием и численными расчетами. В этой области важно иметь возможность эффективно выполнять сложные вычисления, обрабатывать большие объемы данных и создавать надежные модели. Рассмотрим ключевые языки, которые играют центральную роль в научном программировании, их особенности и области применения.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Python
@@ -103,9 +103,9 @@ Fortran — один из старейших языков программиро
     
     <item>
       <title>Создание презентвций</title>
-      <link>https://iumirzakov.github.io/publication/31/</link>
+      <link>https://nvgaforov.github.io/publication/31/</link>
       <pubDate>Sat, 07 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://iumirzakov.github.io/publication/31/</guid>
+      <guid>https://nvgaforov.github.io/publication/31/</guid>
       <description>&lt;p&gt;Создание презентаций — это искусство и наука одновременно. Хорошо разработанная презентация может эффективно передать информацию, удержать внимание аудитории и подчеркнуть ключевые моменты вашего сообщения. Но как создать презентацию, которая будет не только информативной, но и визуально привлекательной? В этой статье мы рассмотрим ключевые аспекты создания успешных презентаций, от планирования и структуры до дизайна и практического исполнения.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Определение цели и аудитории
@@ -150,9 +150,9 @@ Canva: Онлайн-платформа, которая предлагает ра
     
     <item>
       <title>Git</title>
-      <link>https://iumirzakov.github.io/publication/12/</link>
+      <link>https://nvgaforov.github.io/publication/12/</link>
       <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://iumirzakov.github.io/publication/12/</guid>
+      <guid>https://nvgaforov.github.io/publication/12/</guid>
       <description>&lt;p&gt;Git — одна из самых популярных систем управления версиями, позволяющая разработчикам работать с кодом, отслеживать изменения и координировать совместную работу. Управление версиями критически важно для команд разработки, так как оно помогает сохранять историю изменений, исправлять ошибки и вести параллельную работу над разными частями проекта.&lt;/p&gt;
 &lt;p&gt;Преимущества использования системы управления версиями:
 Отслеживание изменений. Система позволяет увидеть, кто и когда вносил правки в проект, а также что именно изменилось. Это помогает разобраться в источнике проблем и понять историю проекта.
