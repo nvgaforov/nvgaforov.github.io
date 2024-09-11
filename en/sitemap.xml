@@ -31,7 +31,7 @@
                 />
   </url><url>
     <loc>https://nvgaforov.github.io/en/tags/academic/</loc>
-    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -45,7 +45,7 @@
                 />
   </url><url>
     <loc>https://nvgaforov.github.io/en/post/</loc>
-    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -56,6 +56,48 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://nvgaforov.github.io/en/post/"
+                />
+  </url><url>
+    <loc>https://nvgaforov.github.io/en/post/11.19.2024/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://nvgaforov.github.io/post/11.19.2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nvgaforov.github.io/en/post/11.19.2024/"
+                />
+  </url><url>
+    <loc>https://nvgaforov.github.io/en/tags/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://nvgaforov.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nvgaforov.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://nvgaforov.github.io/en/tags/university/</loc>
+    <lastmod>2024-09-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://nvgaforov.github.io/tags/university/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://nvgaforov.github.io/en/tags/university/"
                 />
   </url><url>
     <loc>https://nvgaforov.github.io/en/publication/31/</loc>
@@ -196,20 +238,6 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="https://nvgaforov.github.io/en/publication/41/"
-                />
-  </url><url>
-    <loc>https://nvgaforov.github.io/en/tags/</loc>
-    <lastmod>2024-09-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://nvgaforov.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://nvgaforov.github.io/en/tags/"
                 />
   </url><url>
     <loc>https://nvgaforov.github.io/en/publication/</loc>
